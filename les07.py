@@ -3,3 +3,5 @@ if True:
 
 if False:
     print("Luxembourg")
+
+print("Alles OK")
