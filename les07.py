@@ -5,3 +5,5 @@ if False:
     print("Luxembourg")
 
 print("Alles OK")
+
+print("Are you sure m8?")
